@@ -1,0 +1,28 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Environment variables
+.env
+
+# Generated data files
+data/artists.json
+
+# Local ChromaDB persistence
+chroma_db/
+
+# Streamlit local files
+.streamlit/
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+
+# Misc
+.DS_Store
