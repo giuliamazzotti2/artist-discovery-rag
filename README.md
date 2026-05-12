@@ -1,5 +1,7 @@
 # Artist Discovery RAG
 
+
+
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32%2B-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![LangChain](https://img.shields.io/badge/LangChain-LCEL-1C3C3C)](https://python.langchain.com/)
@@ -11,7 +13,7 @@ A music discovery app powered by Retrieval-Augmented Generation. Describe a soun
 
 ## Screenshot
 
-> [screenshot here]
+![Artist Discovery Demo](demo.gif)
 
 ---
 
